@@ -1,7 +1,7 @@
 ```markdown
 # ReStroop: Eye-Tracking Analysis Framework for Inhibitory Control Evaluation
 
-This repository contains the official algorithmic pipeline and data processing framework for **ReStroop**, an eye-tracking-driven educational game and cognitive assessment system. ReStroop presents a recycling-themed Stroop paradigm designed to evaluate and train **inhibitory control skills** in children.
+This repository contains the official algorithmic pipeline and data processing framework for ReStroop, an eye-tracking-driven educational game and cognitive assessment system. ReStroop presents a recycling-themed Stroop paradigm designed to evaluate and train **inhibitory control skills** in children.
 
 The framework processes raw, high-frequency gaze time-series streams through unified fixation classification, Area of Interest (AOI) spatial mapping, performance modelling, and automated multi-dimensional risk assessment.
 
@@ -9,11 +9,11 @@ The framework processes raw, high-frequency gaze time-series streams through uni
 
 ## 🌟 Key Features
 
-* **Dual-Threshold Eye Movement Detection:** Combines Velocity-Threshold Identification (**I-VT**) and spatial density clustering (DBSCAN/K-Means) to reliably filter gaze noise and extract fixations, saccades, and visual search paths.
-* **Dynamic AOI Analytics:** Maps spatiotemporal gaze fixations onto dynamic game elements (target bins, distractor items, feedback banners) in real time.
-* **Multi-Dimensional Risk Engine:** Calculates real-time risk scores across task relevance, attention scatter, and processing efficiency metrics to detect cognitive overload vs. adaptive learning.
-* ** Personalised Intervention Generator:** Automatically triggers evidence-based recommendations, including attention regulation prompts, adaptive difficulty tuning, and environmental modifications for teachers and psychologists.
-* **Unified Telemetry Logger:** Integrates seamlessly with Unity 6 game engines and Tobii Pro hardware environments.
+* Dual-Threshold Eye Movement Detection:** Combines Velocity-Threshold Identification (**I-VT**) and spatial density clustering (DBSCAN/K-Means) to reliably filter gaze noise and extract fixations, saccades, and visual search paths.
+* Dynamic AOI Analytics:** Maps spatiotemporal gaze fixations onto dynamic game elements (target bins, distractor items, feedback banners) in real time.
+* Multi-Dimensional Risk Engine:** Calculates real-time risk scores across task relevance, attention scatter, and processing efficiency metrics to detect cognitive overload vs. adaptive learning.
+* Personalised Intervention Generator:** Automatically triggers evidence-based recommendations, including attention regulation prompts, adaptive difficulty tuning, and environmental modifications for teachers and psychologists.
+* Unified Telemetry Logger:** Integrates seamlessly with Unity 6 game engines and Tobii Pro hardware environments.
 
 
 
