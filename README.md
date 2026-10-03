@@ -9,11 +9,11 @@ The framework processes raw, high-frequency gaze time-series streams through uni
 
 ## 🌟 Key Features
 
-* Dual-Threshold Eye Movement Detection:** Combines Velocity-Threshold Identification (I-VT) and spatial density clustering (DBSCAN/K-Means) to reliably filter gaze noise and extract fixations, saccades, and visual search paths.
-* Dynamic AOI Analytics:** Maps spatiotemporal gaze fixations onto dynamic game elements (target bins, distractor items, feedback banners) in real time.
+* Dual-Threshold Eye Movement Detection: Combines Velocity-Threshold Identification (I-VT) and spatial density clustering (DBSCAN/K-Means) to reliably filter gaze noise and extract fixations, saccades, and visual search paths.
+* Dynamic AOI Analytics: Maps spatiotemporal gaze fixations onto dynamic game elements (target bins, distractor items, feedback banners) in real time.
 * Multi-Dimensional Risk Engine:** Calculates real-time risk scores across task relevance, attention scatter, and processing efficiency metrics to detect cognitive overload vs. adaptive learning.
-* Personalised Intervention Generator:** Automatically triggers evidence-based recommendations, including attention regulation prompts, adaptive difficulty tuning, and environmental modifications for teachers and psychologists.
-* Unified Telemetry Logger:** Integrates seamlessly with Unity 6 game engines and Tobii Pro hardware environments.
+* Personalised Intervention Generator: Automatically triggers evidence-based recommendations, including attention regulation prompts, adaptive difficulty tuning, and environmental modifications for teachers and psychologists.
+* Unified Telemetry Logger: Integrates seamlessly with Unity 6 game engines and Tobii Pro hardware environments.
 
 
 
